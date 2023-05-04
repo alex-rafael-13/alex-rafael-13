@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there Welcome to my ReadMe!👋
+
+## About Me:
+Hi! My name is Alexis Rafael, I am an un and coming software engineer!
+
+## Projects:
+- http://writers-block.onrender.com
+- http://scenic-stays.onrender.com
+- https://yard-hunters.onrender.com
+
 
 <!--
 **alex-rafael-13/alex-rafael-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
