@@ -1,7 +1,7 @@
 ### Hi there Welcome to my ReadMe!👋
 
 ## About Me:
-Hi! My name is Alexis Rafael, I am an un and coming software engineer!
+Hi! My name is Alexis Rafael, I am an up and coming software engineer!
 
 ## Projects:
 - http://writers-block.onrender.com
