@@ -35,7 +35,7 @@ One of my main goals in life is to able to learn so I could make a change in the
 <img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align='left' alt='Alt' width='50px' style='padding-right:10px;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 
           
