@@ -51,10 +51,13 @@ One of my main goals in life is to able to learn so I could make a change in the
     <a href='https://writers-block.onrender.com/'>
       <img alt="Writer's Block" width='300px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+8.34.42+PM.png' />
     </a>
-      
-    
 </p>
 
+#
+
+### 👾 Stats
+
+[![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-rafael-13&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
           
