@@ -19,23 +19,42 @@ One of my main goals in life is to able to learn so I could make a change in the
 
 ---
 
-#### 🧰 Languages and Tools
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+### 🧰 Languages and Tools
 
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align='left' alt='Alt' width='50px' style='padding-right:10px;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align='left' alt='Alt' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<br />
+
+#
+
+### 💻 Web Applications
+  <p align='left'>
+    <a href='https://yard-hunters.onrender.com/'>
+      <img alt='Yard Hunters' width='300px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+7.49.49+PM.png' />
+    </a>
+    <a href='https://scenic-stays.onrender.com/'>
+      <img alt='Scenic Stays' width='300px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+8.33.18+PM.png' />
+    </a>
+    <a href='https://writers-block.onrender.com/'>
+      <img alt="Writer's Block" width='300px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+8.34.42+PM.png' />
+    </a>
+      
+    
+</p>
+
 
 
           
