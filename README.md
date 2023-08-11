@@ -43,13 +43,13 @@ One of my main goals in life is to able to learn so I could make a change in the
 ### 💻 Web Applications
   <p align='left'>
     <a href='https://yard-hunters.onrender.com/'>
-      <img alt='Yard Hunters' width='500px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+7.49.49+PM.png' />
+      <img alt='Yard Hunters' width='400px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+7.49.49+PM.png' />
     </a>
     <a href='https://scenic-stays.onrender.com/'>
-      <img alt='Scenic Stays' width='500px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+8.33.18+PM.png' />
+      <img alt='Scenic Stays' width='400px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+8.33.18+PM.png' />
     </a>
     <a href='https://writers-block.onrender.com/'>
-      <img alt="Writer's Block" width='500px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+8.34.42+PM.png' />
+      <img alt="Writer's Block" width='400px' src='https://scenic-stays.s3.us-west-1.amazonaws.com/public/Screenshot+2023-08-10+at+8.34.42+PM.png' />
     </a>
 </p>
 
