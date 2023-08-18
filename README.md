@@ -2,7 +2,9 @@
 
 **`Digital Craftsman (Software/Fullstacks/Aspiring Game Developer)`**
 
-One of my main goals in life is to able to learn so I could make a change in the world. When I became a software engineer, I realized that I now have the power to do so. This field has allowed me to strengthen my skills and gave me goals that I never thought I would have before. As an up-and-coming software developer, I look forward to discussing anything software/ positive applications that I can help you build.
+One of my main goals in life is to able to learn so I could make a change in the world. When I became a software engineer, I realized that I hone the abilities to do so. This field has allowed me to strengthen my skills and gave me goals that I never thought I would have before. As an emerging software developer, I'm enthusiastic about engaging in conversations centered around software and its positive applications. I'm also passionate about video games and am eager to delve into game development as an exciting side endeavor. I look forward to sharing insights and collaborating on various software projects, including games, that can contribute positively to our ever-evolving world.
+
+🎮 **Currently Playing:** Legend of Zelda, Tears of the Kingdom
 
 <p align='left'>
   <a href='https://www.linkedin.com/in/alexis-rafael-319092275/'>
