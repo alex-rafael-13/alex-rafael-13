@@ -61,7 +61,7 @@ One of my main goals in life is to able to learn so I could make a change in the
 
 ### 👾 Stats
 
-[![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-rafael-13&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-rafael-13&theme=nightowl&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/alex-rafael-13?tab=repositories)https://github.com/alex-rafael-13?tab=repositories)
 
 
           
