@@ -6,6 +6,8 @@ One of my main goals in life is to able to learn so I could make a change in the
 
 🎮 **Currently Playing:** Legend of Zelda, Tears of the Kingdom
 
+🧠 **Currently Learning:** C#, .NET
+
 <p align='left'>
   <a href='https://www.linkedin.com/in/alexis-rafael-319092275/'>
     <img alt='Linkedin' src='https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=linkedin'/>
