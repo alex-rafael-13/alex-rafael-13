@@ -63,6 +63,11 @@ One of my main goals in life is to able to learn so I could make a change in the
 
 [![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-rafael-13&theme=nightowl&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/alex-rafael-13?tab=repositories)https://github.com/alex-rafael-13?tab=repositories)
 
+### 😈 30 Days of Coding Challenge: 
+Keeping my tamagotchi alive by coding each day in March :)
+  [Check out my progress!](https://www.codedex.io/@rafaelale39048/30-nites-of-code)  
+  ![@rafaelale39048 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rafaelale39048)
+
 
           
           
